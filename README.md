@@ -1,3 +1,6 @@
+Baptiste PILLET & Gaultier JOUSSELIN - OCRES G2 2021
+
+Repository local pour le front : 
 https://github.com/Batpillet/Project_Dashboard
 
 # Projet de fin de semestre

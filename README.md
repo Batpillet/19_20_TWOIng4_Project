@@ -3,8 +3,10 @@ Baptiste PILLET & Gaultier JOUSSELIN - OCRES G2 2021
 Repository local pour le front : 
 https://github.com/Batpillet/Project_Dashboard
 
-Repository local pour le front : 
+Repository local pour le back : 
 https://github.com/GaultierJousselin/React_Project_Back
+
+Les schemas du zoning, du wireframe sont presents dans le repo dédié au front. 
 
 # Projet de fin de semestre
 

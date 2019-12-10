@@ -3,6 +3,9 @@ Baptiste PILLET & Gaultier JOUSSELIN - OCRES G2 2021
 Repository local pour le front : 
 https://github.com/Batpillet/Project_Dashboard
 
+Repository local pour le front : 
+https://github.com/GaultierJousselin/React_Project_Back
+
 # Projet de fin de semestre
 
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:

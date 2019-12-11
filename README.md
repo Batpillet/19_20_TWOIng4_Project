@@ -8,6 +8,9 @@ https://github.com/GaultierJousselin/React_Project_Back
 
 Lien LOOM (mais le projet est censé fonctionner. On l'a testé sur 4 machines différentes) : https://www.loom.com/share/23e69840464a4e5dbe4c2a6e814ccdb8
 
+
+Les schemas du zoning, du wireframe ainsi que le Trello du projet sont presents dans le repo dédié au front. 
+
 # Projet de fin de semestre
 
 A lire impérativement avant de commencer quoi que ce soit, ce sont les règles que vous devrez appliquer tout au long du semestre:
